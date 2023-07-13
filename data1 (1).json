@@ -1,0 +1,87 @@
+[
+    {
+        "context": "000148105723004452_form424b2",
+        "qas": [
+            {
+                "question": "What is the CUSIPno?",
+                "answer": "06745MMC9 / US06745MMC90"
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": "July 3, 2025"
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": "July 6, 2023"
+            }
+        ]
+    },
+    {
+        "context": "000095010323009504_dp195976_fwp-5052wfts",
+        "qas": [
+            {
+                "question": "What is the CUSIPno?",
+                "answer": NaN
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": NaN
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": NaN
+            }
+        ]
+    },
+    {
+        "context": "000148105723004462_form424b2",
+        "qas": [
+            {
+                "question": "What is the CUSIPno?",
+                "answer": "06745MMH8 / US06745MMH87"
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": "July 2, 2026"
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": "July 3, 2023"
+            }
+        ]
+    },
+    {
+        "context": "000148105723004477_form424b2",
+        "qas": [
+            {
+                "question": "What is the CUSIPno?",
+                "answer": "06741W6C9 / US06741W6C99"
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": "July 3, 2025"
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": "July 6, 2023"
+            }
+        ]
+    },
+    {
+        "context": "000148105723004467_form424b2",
+        "qas": [
+            {
+                "question": "What is the CUSIPno?",
+                "answer": "06745MMK1 / US06745MMK17"
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": "July 2, 2026"
+            },
+            {
+                "question": "What is the Maturity date?",
+                "answer": "June 30, 2023"
+            }
+        ]
+    }
+]
